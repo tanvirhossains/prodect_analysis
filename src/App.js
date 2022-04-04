@@ -6,18 +6,19 @@ import DashBoard from './Components/Dashboard/DashBoard';
 import Blogs from './Components/Blogs/Blogs';
 import Reviews from './Components/Reviews/Reviews';
 import About from './Components/About/About';
+import Home from './Components/Home/Home';
 
 function App() {
   return (
     <div className="App">
       <Header></Header>
-     <h1>Added</h1>
+  
 
 
      <Routes>
-       <Route path='/' element={<Header></Header>}> </Route>
-       <Route path='/home' element={<Header></Header>}></Route>
-       <Route path='/header' element={<Header></Header>}></Route>
+       <Route path='/' element={<Home></Home>}> </Route>
+       <Route path='/home' element={<Home></Home>}> </Route>
+       
        <Route path='/blogs' element={<Blogs></Blogs>}></Route>
        <Route path='/reviews' element={<Reviews></Reviews>}></Route>
        <Route path='/about' element={<About></About>}></Route>
