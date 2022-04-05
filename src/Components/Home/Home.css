@@ -1,0 +1,22 @@
+.bike-info {
+    margin: 20px;
+    display: flex;
+}
+
+.bike-info img {
+
+    width: 700px;
+}
+
+.span1 {
+    color: blueviolet;
+    font-size: 2em;
+}
+.bike-detail button {
+    padding: 10px;
+    font: bold;
+    font-size: 1.5em;
+    color: antiquewhite;
+    background-color: rgb(111, 8, 16);
+    border-radius: 4px;
+}
