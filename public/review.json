@@ -3,49 +3,49 @@
         "name": "Akkas mia",
         "id":1 ,
         "img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "review":"adfdfd",
+        "review":"This is really a nice bike, i'm using this bike for 3 years and only one time i serviced till now",
         "rating":"5/5 "
     },
     {
         "name": "Babul mia",
          "id": 2,
          "img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-        "review":"fadfdf",
+        "review":"NOt bad, this is bike is use ful for the modern user and also for long time jurney",
         "rating":"4.5/5 "
     },
     {
         "name": "Mr Aslam",
         "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bWFsZSUyMHByb2ZpbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
           "id":3 ,
-        "review":"dfd",
+        "review":"Now it can be a great bike forever to me ",
         "rating":"4/5 "
     },
     {
         "name": "Devid colombus",
         "id":4 ,
         "img":"https://images.unsplash.com/photo-1579038773867-044c48829161?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fG1hbGUlMjBwcm9maWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "review":"ddddddd",
+        "review":"serrah, but so expensibe bike and should company reduce its price so thai use can buy this bike",
         "rating":"4/5 "
     },
     {
         "name": "Dosler Makham",
         "id": 5,
         "img": "https://images.unsplash.com/photo-1596502059330-be10388e3ba0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fG1hbGUlMjBwcm9maWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "review":"agun",
+        "review":"Actuall  i have nothing to say about this bike because it is a nice bike and a  user will be fell confortable to use this bike ",
         "rating":"3.5/5 "
     },
     {
         "name": "Devid Mackham",
         "id": 6,
         "img":"https://images.unsplash.com/photo-1565464027194-7957a2295fb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fG1hbGUlMjBwcm9maWxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
-        "review":"nice",
+        "review":"serra akta bike, but its back sit is so small to sit my wife, also it is not confortable for the back sitter.",
         "rating":"3.5/5 "
     },
     {
         "name": "Molla alom",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTruXwKAev1XedtnPM9tnb2Dv5yi_pHNgbg&usqp=CAU",
           "id": 7,
-        "review":"very nice",
+        "review":"As a molla it is really a nice bike , and also more beneficial bike for me and i fell so comfortable to use this",
         "rating":"4/5 "
     }
 ]

@@ -4,4 +4,11 @@
     width: 100px;
     height: 100px;
     border-radius: 50%;
+    
+}
+
+.review-container{
+    border: 2px solid rebeccapurple;
+    margin: 15px;
+    padding: 10px;
 }

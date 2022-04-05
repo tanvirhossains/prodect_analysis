@@ -1,5 +1,12 @@
 .Link{
-    margin-left: 10px;
+    margin: 10px;
     text-decoration: none;
-    color: black;
+    color: rgb(232, 220, 220);  
+    font-size: large;
+}
+
+.link{
+    background-color: brown;
+    padding: 10px;
+
 }

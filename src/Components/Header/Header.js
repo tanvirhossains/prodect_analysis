@@ -13,8 +13,7 @@ const Header = () => {
             <Link className='Link' to='/dashboard'>Dash Board</Link>
             <Link className='Link' to='/blogs'>Blogs</Link>
             <Link className='Link' to='/about'>About</Link>
-
-           
+ 
         </div>
     );
 };
