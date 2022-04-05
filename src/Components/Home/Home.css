@@ -20,3 +20,19 @@
     background-color: rgb(111, 8, 16);
     border-radius: 4px;
 }
+
+.all-review-button{
+    margin-top: 300px;
+    text-decoration: none;
+    color: antiquewhite;
+    font: bold;
+    font-size: 1em;
+    padding:15px ;
+    background-color: blue;
+    border-radius: 5px;
+}
+
+.all-review-button :hover {
+    background-color: azure;
+    color: blue;
+}
