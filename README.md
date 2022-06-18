@@ -1,5 +1,6 @@
 ## Project live link
-# [product-analysis] (https://taupe-griffin-f00a09.netlify.app/)
+
+[product-analysis] ( https://taupe-griffin-f00a09.netlify.app/ )
 
 # Getting Started with Create React App
 
